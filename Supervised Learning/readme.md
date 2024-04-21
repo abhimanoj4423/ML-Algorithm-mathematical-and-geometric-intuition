@@ -30,7 +30,7 @@ A K-Nearest Neighbors (KNN) is a type of algorithm that is used for both classif
 * K-Nearest Neighbors Regression: It predicts continuous values by averaging the outputs of the k closest neighbors.
 * K-Nearest Neighbors Classification: Data points are classified based on the majority class of their k closest neighbors.
 
-## 7.Gradient Boosting: 
+## 7.Gradient Boosting (Ensemble Learning): 
 Gradient Boosting combines weak learners, like decision trees, to create a strong model. It iteratively builds new models that correct errors made by previous ones. Each new model is trained to minimize residual errors, resulting in a powerful predictor capable of handling complex data relationships.
 A Gradient Boosting is a type of algorithm that is used for both classification and regression tasks.
 * Gradient Boosting Regression: It builds an ensemble of weak learners to improve prediction accuracy through iterative training.
